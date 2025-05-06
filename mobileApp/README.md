@@ -16,12 +16,6 @@ A **Flutter** app for wireless temperature monitoring while grilling or barbecui
 
 ---
 
-## Screenshots *(todo)*
-
-> Add a couple of emulator/device screenshots here when available.
-
----
-
 ## Quick Start
 
 ```bash
