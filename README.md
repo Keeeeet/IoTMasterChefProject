@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This project implements a **wireless grill thermometer** using a Raspberry Pi Pico W and a MAX6675 thermocouple sensor. The device reads temperature data and sends it every second via Bluetooth Low Energy (BLE) to a mobile app built in Flutter. The app displays the temperature in real-time and alerts the user when the target value is reached.
+This project implements a **wireless grill thermometer** using a Raspberry Pi Pico 2 W and a MAX6675 thermocouple sensor. The device reads temperature data and sends it every second via Bluetooth Low Energy (BLE) to a mobile app built in Flutter. The app displays the temperature in real-time and alerts the user when the target value is reached.
 
 ---
 
