@@ -70,7 +70,6 @@ Simply connect the Pico W to your computer via USB and open it in the Thonny edi
 
 1. Open the `mobile_app` folder in Android Studio.
 2. Connect your phone and run the app.
-3. Alternatively, build the APK via **Build > Build APK(s)** and transfer the `.apk` file to your phone for manual installation.
 
 ---
 
