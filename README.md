@@ -64,7 +64,7 @@ Photos of the app running on a real device:
 
 ### 1. Flash the Firmware
 
-Simply connect the Pico W to your computer via USB and open it in the Thonny editor. Save the code file as `main.py` directly to the Pico board. The program will start running automatically.
+Simply connect the Pico 2 W to your computer via USB and open it in the Thonny editor. Save the code file as `main.py` directly to the Pico board. The program will start running automatically.
 
 ### 2. Run the App
 
