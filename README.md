@@ -87,6 +87,11 @@ MIT License
 
 ---
 
+## Video
+
+https://youtu.be/30hnBKFfk5w
+
+
 ## 🎓 Academic Note
 
 This project was completed as part of the course *Komunikační systémy pro IoT* by the following students:
