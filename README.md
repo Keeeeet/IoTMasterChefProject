@@ -12,7 +12,7 @@ This project implements a **wireless grill thermometer** using a Raspberry Pi Pi
 | --------------------- | ----------------------------------------- |
 | Raspberry Pi Pico 2 W | Microcontroller with built-in BLE         |
 | MAX6675 Module        | Thermocouple-to-digital converter (SPI)   |
-| Thermocouple          | -200°C to 1300°C range                    |
+| Thermocouple          | 0°C to 1200°C range                    |
 | Power Supply          | USB-powered (no battery in final version) |
 | Mobile App Framework  | Flutter (Dart) for Android                |
 | Firmware Language     | MicroPython                               |
